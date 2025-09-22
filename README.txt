@@ -1,40 +1,33 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Bibek Dhakal – Portfolio Website
 
+This is my personal portfolio website, built using the **Prologue** template from [HTML5UP.net](https://html5up.net).  
+I have customized and extended the template to showcase my work, skills, and background.
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+🔗 **Live Site:** [https://bibekdhakal977.github.io/bibek-portfolio/](https://bibekdhakal977.github.io/bibek-portfolio/)
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+---
 
-http://ineedchemicalx.deviantart.com/
+## ✨ Features & Customizations
+- Updated content with **my personal introduction**
+- Added sections for:
+  - Projects (with descriptions and visuals)
+  - Resume (downloadable PDF)
+  - Contact information
+- Replaced demo images with **my own images and graphics**
+- Customized layout, text, and styling for a personal touch
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+---
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+## 🛠️ Built With
+- HTML5, CSS3, JavaScript
+- [HTML5 UP Prologue Template](https://html5up.net/prologue) (Creative Commons 3.0 license)
+- jQuery plugins for smooth scrolling and responsiveness
 
-(* = Not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 📄 License
+This project uses the **Creative Commons Attribution 3.0 License** from HTML5 UP.  
+You’re free to adapt and share, but please credit **HTML5 UP** for the original template design.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Original template by **[@ajlkn](https://twitter.com/ajlkn)**  
+Modified by **Bibek Dhakal** for personal portfolio use.
