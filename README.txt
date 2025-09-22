@@ -3,7 +3,7 @@
 This is my personal portfolio website, built using the **Prologue** template from [HTML5UP.net](https://html5up.net).  
 I have customized and extended the template to showcase my work, skills, and background.
 
-🔗 **Live Site:** [https://bibekdhakal977.github.io/bibek-portfolio/](https://bibekdhakal977.github.io/bibek-portfolio/)
+🔗 **Live Site:** https://bibekdhakal977.github.io/bibek-portfolio/
 
 ---
 
@@ -31,3 +31,4 @@ You’re free to adapt and share, but please credit **HTML5 UP** for the origina
 
 Original template by **[@ajlkn](https://twitter.com/ajlkn)**  
 Modified by **Bibek Dhakal** for personal portfolio use.
+
